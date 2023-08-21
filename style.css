@@ -32,5 +32,12 @@ body{
     margin: 0;
 }
 nav{
-
+    background-color: #333;
+}
+nav ul{
+    list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+    text-align: center;
 }
